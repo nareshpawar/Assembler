@@ -1,0 +1,119 @@
+C0 eax eax
+D8 eax ebx
+C8 eax ecx
+D0 eax edx
+
+C3 ebx eax
+DB ebx ebx
+CB ebx ecx
+D3 ebx edx
+
+C1 ecx eax
+D9 ecx ebx
+C9 ecx ecx
+D1 ecx edx
+
+C2 edx eax
+DA edx ebx
+CA edx ecx
+D2 edx edx
+
+C0 ax ax
+D8 ax bx
+C8 ax cx
+D0 ax dx
+
+C3 bx ax
+DB bx bx
+CB bx cx
+D3 bx dx
+
+C1 cx ax
+D9 cx bx
+C9 cx cx
+D1 cx dx
+
+C2 dx ax
+DA dx bx
+CA dx cx
+D2 dx dx
+
+C0 al al
+D8 al bl
+C8 al cl
+D0 al dl
+
+C3 bl al
+DB bl bl
+CB bl cl
+D3 bl dl
+
+C1 cl al
+D9 cl bl
+C9 cl cl
+D1 cl dl
+
+C2 dl al
+DA dl bl
+CA dl cl
+D2 dl dl
+
+E4 ah ah
+FC ah bh
+EC ah ch
+F4 ah dh
+
+E7 bh ah
+FF bh bh
+EF bh ch
+F7 bh dh
+
+E5 ch ah
+FD ch bh
+ED ch ch
+F5 ch dh
+
+E6 dh ah
+FE dh bh
+EE dh ch
+F6 dh dh
+
+C4 ah al
+DC ah bl
+CC ah cl
+D4 ah dl
+
+C7 bh al
+DF bh bl
+CF bh cl
+D7 bh dl
+
+DD ch bl
+C5 ch al
+CD ch cl
+D5 ch dl
+
+DE dh bl
+CE dh cl
+C6 dh al
+D6 dh dl
+
+E0 al ah
+F8 al bh
+E8 al ch
+F0 al dh
+
+FB bl bh
+E3 bl ah
+EB bl ch
+F3 bl dh
+
+E9 cl ch
+F9 cl bh
+E1 cl ah
+F1 cl dh
+
+FA dl bh
+EA dl ch
+E2 dl ah
+F2 dl dh

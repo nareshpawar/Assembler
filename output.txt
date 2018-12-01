@@ -1,0 +1,21 @@
+main:                                                                                               [1]
+	mov eax,dword[ecx]                                                                                 A1[R3]
+	jmp end                                                                                            EB[17]	
+
+
+	cmp eax,dword[b]                                                                                   3B05[S1]
+	push msg                                                                                           P[1]	
+	mov al,'a'                                                                                         B0(a)
+	mov dword[b],eax                                                                                   A3[S1]
+        add eax,ebx                                                                                 01D8
+	sub ax,bx                                                                                          6629C0D8
+	sub eax,eax                                                                                        29C0C0
+	inc eax                                                                                            4(1)	
+
+loop      :                                                                                         [14]
+	mov eax,eax                                                                                        89C0
+
+
+end:                                                                                                [17]
+
+

@@ -1,0 +1,8 @@
+jmp EB
+inc 4
+dec 5
+mul F7
+div F8
+call C
+push P
+pop O
